@@ -1,16 +1,39 @@
-### Hi there 👋
+## Hi there! 👋 I'm [Your Name], a Security Engineer with a passion for safeguarding digital realms and finding security vulnerabilities.
 
-<!--
-**ciph0x01/ciph0x01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- 🔐 Security Engineer specialized in Red Teaming, Vulnerability Assessment, and Penetration Testing
+- 📜 Proficient in Security Code Review for identifying and fixing vulnerabilities in codebases
+- 🛡️ Skilled in Network, Web Application, Mobile Application (Android and iOS), and API Penetration Testing
+- 💡 Constantly learning and exploring new techniques to stay ahead of the threat landscape
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills
+
+- 🌐 Web Application Security: OWASP Top 10, Cross-Site Scripting (XSS), SQL Injection, CSRF
+- 🛡️ Network Security: Firewalls, VPNs, IDS/IPS, Traffic Analysis
+- 📱 Mobile Application Security: Static and Dynamic Analysis, Secure Data Storage
+- 🔒 Red Teaming: Social Engineering, Active Directory Exploitation
+- 🐛 Vulnerability Assessment and Penetration Testing (VAPT)
+- 🔐 Security Code Review: Python, Java, JavaScript, C/C++
+- 🌐 API Penetration Testing: REST, SOAP, GraphQL
+
+### Open Source Projects
+
+🔓 [Project 1](https://github.com/yourusername/project1): Brief description of your open source project.
+
+🔐 [Project 2](https://github.com/yourusername/project2): Brief description of another open source project.
+
+### Blog & Write-ups
+
+📝 I love sharing knowledge and insights. Visit my [blog](https://yourblogwebsite.com) for security write-ups and tips!
+
+### Let's Connect
+
+🐦 [Twitter](https://twitter.com/yourtwitterhandle)
+💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+🌐 [Personal Website](https://yourwebsite.com)
+
+### GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ciph0x01&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=radical)
+
