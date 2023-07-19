@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Ambadi MP], a Security Engineer with a passion for safeguarding digital realms and finding security vulnerabilities.
+## Hi there! 👋 I'm Ambadi MP, a Security Engineer with a passion for safeguarding digital realms and finding security vulnerabilities.
 
 ### About Me
 
