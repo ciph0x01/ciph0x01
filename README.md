@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Your Name], a Security Engineer with a passion for safeguarding digital realms and finding security vulnerabilities.
+## Hi there! 👋 I'm [Ambadi MP], a Security Engineer with a passion for safeguarding digital realms and finding security vulnerabilities.
 
 ### About Me
 
@@ -33,7 +33,4 @@
 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
 🌐 [Personal Website](https://yourwebsite.com)
 
-### GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ciph0x01&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=radical)
 
