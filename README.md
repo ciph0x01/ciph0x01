@@ -19,9 +19,12 @@
 
 ### Open Source Projects
 
-🔓 [Project 1](https://github.com/yourusername/project1): Brief description of your open source project.
+🔓 [Web App Hacking: Carnage & Pwnage (Cyber Secrets)](https://www.amazon.in/gp/product/B098KJYZTP/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0): 
 
-🔐 [Project 2](https://github.com/yourusername/project2): Brief description of another open source project.
+🔐 [The 8 Layers of the OSI Cake: A Forensic Taste of Each Layer (Cyber Secrets)](https://www.amazon.in/gp/product/B08C4KH4N1/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1).
+
+🔓 [Launching Exploits: One Small Vulnerability For A Company, One Giant Heap for Port Bind (Cyber Secrets)](https://www.amazon.in/gp/product/B08HXCDWDK/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i4): 
+
 
 ### Blog & Write-ups
 
@@ -30,7 +33,7 @@
 ### Let's Connect
 
 🐦 [Twitter](https://twitter.com/yourtwitterhandle)
-💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+💼 [LinkedIn](https://www.linkedin.com/in/ambadi-m-p-16a95217b)
 🌐 [Personal Website](https://yourwebsite.com)
 
 
